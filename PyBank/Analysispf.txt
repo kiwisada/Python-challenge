@@ -1,0 +1,6 @@
+Analysis
+Total months of months in data:86
+Net total amount of Profit/Losses over the entire period: $22564198
+Average change of Profit/Losses over the entire period: $-8311.11
+Greatest increase in profits over the entire period: Mar-13 $52857
+Greatest decrease in profits over the entire period: Dec-10 $-2283116
